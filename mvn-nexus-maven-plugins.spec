@@ -4,7 +4,7 @@
 #
 Name     : mvn-nexus-maven-plugins
 Version  : 1.6.3
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/org/sonatype/nexus/maven/nexus-common/1.6.3/nexus-common-1.6.3.jar
 Source0  : https://repo1.maven.org/maven2/org/sonatype/nexus/maven/nexus-common/1.6.3/nexus-common-1.6.3.jar
 Source1  : https://repo1.maven.org/maven2/org/sonatype/nexus/maven/nexus-common/1.6.3/nexus-common-1.6.3.pom
